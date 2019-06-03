@@ -1,0 +1,171 @@
+{
+    "type": "FeatureCollection",
+    "query": ["norwich"],
+    "features": [{
+        "id": "place.19484018245676",
+        "type": "Feature",
+        "place_type": ["place"],
+        "relevance": 1,
+        "properties": {
+            "wikidata": "Q130191"
+        },
+        "text": "Norwich",
+        "place_name": "Norwich, Norfolk, England, United Kingdom",
+        "bbox": [0.773205, 52.406511, 1.642751, 52.947766],
+        "center": [1.29917, 52.62806],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [1.29917, 52.62806]
+        },
+        "context": [{
+            "id": "district.18528115266382020",
+            "wikidata": "Q23109",
+            "text": "Norfolk"
+        }, {
+            "id": "region.11773787231453920",
+            "short_code": "GB-ENG",
+            "wikidata": "Q21",
+            "text": "England"
+        }, {
+            "id": "country.8605848117814600",
+            "short_code": "gb",
+            "wikidata": "Q145",
+            "text": "United Kingdom"
+        }]
+    }, {
+        "id": "locality.13687325924138710",
+        "type": "Feature",
+        "place_type": ["locality"],
+        "relevance": 1,
+        "properties": {
+            "wikidata": "Q130191"
+        },
+        "text": "Norwich",
+        "place_name": "Norwich, Norwich, Norfolk, England, United Kingdom",
+        "bbox": [1.20386900392735, 52.5553946838911, 1.54078475144137, 52.6849095087013],
+        "center": [1.2923, 52.6286],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [1.2923, 52.6286]
+        },
+        "context": [{
+            "id": "place.19484018245676",
+            "wikidata": "Q130191",
+            "text": "Norwich"
+        }, {
+            "id": "district.18528115266382020",
+            "wikidata": "Q23109",
+            "text": "Norfolk"
+        }, {
+            "id": "region.11773787231453920",
+            "short_code": "GB-ENG",
+            "wikidata": "Q21",
+            "text": "England"
+        }, {
+            "id": "country.8605848117814600",
+            "short_code": "gb",
+            "wikidata": "Q145",
+            "text": "United Kingdom"
+        }]
+    }, {
+        "id": "place.14985087906138710",
+        "type": "Feature",
+        "place_type": ["place"],
+        "relevance": 1,
+        "properties": {
+            "wikidata": "Q631402"
+        },
+        "text": "Norwich",
+        "place_name": "Norwich, Connecticut, United States",
+        "bbox": [-72.1406550197978, 41.4906820317298, -72.0403149851872, 41.6082999870608],
+        "center": [-72.0759, 41.5243],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.0759, 41.5243]
+        },
+        "context": [{
+            "id": "region.11501501426180480",
+            "short_code": "US-CT",
+            "wikidata": "Q779",
+            "text": "Connecticut"
+        }, {
+            "id": "country.9053006287256050",
+            "short_code": "us",
+            "wikidata": "Q30",
+            "text": "United States"
+        }]
+    }, {
+        "id": "poi.730144441077",
+        "type": "Feature",
+        "place_type": ["poi"],
+        "relevance": 1,
+        "properties": {
+            "wikidata": "Q349673",
+            "address": "Amsterdam Way",
+            "landmark": true,
+            "category": "airport",
+            "maki": "airport"
+        },
+        "text": "Norwich International Airport (NWI)",
+        "place_name": "Norwich International Airport (NWI), Amsterdam Way, Norwich, England NR6 6EP, United Kingdom",
+        "center": [1.279987, 52.6727045],
+        "geometry": {
+            "coordinates": [1.279987, 52.6727045],
+            "type": "Point"
+        },
+        "context": [{
+            "id": "postcode.8228978375211580",
+            "text": "NR6 6EP"
+        }, {
+            "id": "locality.13687325924138710",
+            "wikidata": "Q130191",
+            "text": "Norwich"
+        }, {
+            "id": "place.19484018245676",
+            "wikidata": "Q130191",
+            "text": "Norwich"
+        }, {
+            "id": "district.18528115266382020",
+            "wikidata": "Q23109",
+            "text": "Norfolk"
+        }, {
+            "id": "region.11773787231453920",
+            "short_code": "GB-ENG",
+            "wikidata": "Q21",
+            "text": "England"
+        }, {
+            "id": "country.8605848117814600",
+            "short_code": "gb",
+            "wikidata": "Q145",
+            "text": "United Kingdom"
+        }]
+    }, {
+        "id": "place.6801022474138710",
+        "type": "Feature",
+        "place_type": ["place"],
+        "relevance": 1,
+        "properties": {
+            "wikidata": "Q1380484"
+        },
+        "text": "Norwich",
+        "place_name": "Norwich, New York, United States",
+        "bbox": [-75.7181118219375, 42.4433526259463, -75.3995500048634, 42.6471309863011],
+        "center": [-75.5235, 42.5312],
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-75.5235, 42.5312]
+        },
+        "context": [{
+            "id": "region.14044236392855570",
+            "short_code": "US-NY",
+            "wikidata": "Q1384",
+            "text": "New York"
+        }, {
+            "id": "country.9053006287256050",
+            "short_code": "us",
+            "wikidata": "Q30",
+            "text": "United States"
+        }]
+    }],
+    "attribution": "NOTICE: © 2019 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained. POI(s) provided by Foursquare."
+}
